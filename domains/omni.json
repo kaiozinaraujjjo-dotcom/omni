@@ -1,0 +1,12 @@
+{
+  "description": "Omni Hub Loader Script",
+  "repo": "https://github.com/kaiozinaraujjjo-dotcom/omni-loader",
+  "owner": {
+    "username": "kaiozinaraujjjo-dotcom",
+    "email": "kaiozin.araujjjo@gmail.com"
+  },
+  "record": {
+    "CNAME": "kaiozinaraujjjo-dotcom.github.io"
+  }
+}
+
